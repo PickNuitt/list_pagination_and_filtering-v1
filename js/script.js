@@ -92,7 +92,7 @@ let appendPageLinks = (list) => {
          };
       });
 };
-hey
+
 appendPageLinks(studentList);
 
 
